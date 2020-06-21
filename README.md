@@ -6,7 +6,7 @@
 ############################
 
 
-Some of this code is taken from he European Bioinformatics Institute and
+Some of this code is taken from The European Bioinformatics Institute and
 Genome Research Limited 
   
 Summary
